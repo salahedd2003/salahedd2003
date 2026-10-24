@@ -48,3 +48,8 @@ I'm a computer science student interested in software development, web technolog
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahedd2003&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahedd2003&layout=compact&theme=tokyonight)
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahedd2003&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahedd2003&layout=compact&theme=tokyonight)
