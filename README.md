@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Salah Eddine Harkat
 
-<!--
-**salahedd2003/salahedd2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a computer science student interested in software development, web technologies, and systems programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently studying Computer Science at HEPL
+* Learning backend development and network programming
+* Working with C, C++, C#, JavaScript, React, Node.js, and SQL
+* Interested in building practical projects and improving my programming skills
+
+### Tech Stack
+
+**Languages**
+
+* C
+* C++
+* C#
+* JavaScript
+* SQL
+
+**Web Development**
+
+* React
+* Node.js
+* Express.js
+* Tailwind CSS
+
+**Tools**
+
+* Git
+* GitHub
+* Linux
+* VS Code
+* MongoDB
+
+### Featured Projects
+
+* **DACSC Labs** — University programming and systems exercises.
+* **Full-Stack Projects** — Web applications built with React and Node.js.
+* **Systems Programming** — C projects involving sockets, processes, and threads.
+
+### Contact
+
+* GitHub: [@salahedd2003](https://github.com/salahedd2003)
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahedd2003&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahedd2003&layout=compact&theme=tokyonight)
